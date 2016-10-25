@@ -1,0 +1,1 @@
+program to show how to tell whether a string is a palindrome or not
